@@ -6,7 +6,6 @@ import { FactoryLogic } from '../../logic/factory-logic';
 import { FeatureField } from '../../enums/feature-field';
 import { Item } from '../../models/item';
 import { ItemType } from '../../enums/item-type';
-import { FeatureField } from '../../enums/feature-field';
 
 export class TrinketData {
 	static colorCloakBlue: Item = FactoryLogic.createItem({
